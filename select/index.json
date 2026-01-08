@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "La Vie en Rose",
+  "base_artist": "Louis Armstrong",
+  "createdAt": "2026-01-08T18:04:09.580061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Thalía",
+      "has_synced": true,
+      "path": "select/01_La_Vie_En_Rose_Thalía.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Vie en Rose",
+      "artist": "Elenyi",
+      "has_synced": true,
+      "path": "select/02_La_Vie_en_Rose_Elenyi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La vie en rose",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/03_La_vie_en_rose_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Thalia",
+      "has_synced": true,
+      "path": "select/04_La_Vie_En_Rose_Thalia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La vie en rose",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/05_La_vie_en_rose_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Africando",
+      "has_synced": false,
+      "path": "select/06_La_Vie_En_Rose_Africando.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La vie en rose",
+      "artist": "Lorenz",
+      "has_synced": false,
+      "path": "select/07_La_vie_en_rose_Lorenz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "la vie en rose",
+      "artist": "izone",
+      "has_synced": true,
+      "path": "select/08_la_vie_en_rose_izone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Almadrava",
+      "has_synced": true,
+      "path": "select/09_La_Vie_En_Rose_Almadrava.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Zazie",
+      "has_synced": true,
+      "path": "select/10_La_Vie_En_Rose_Zazie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Vie en Rose",
+      "artist": "Thalia",
+      "has_synced": true,
+      "path": "select/11_La_Vie_en_Rose_Thalia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La vie en rose",
+      "artist": "Wende",
+      "has_synced": false,
+      "path": "select/12_La_vie_en_rose_Wende.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La vie en rose",
+      "artist": "Dalida",
+      "has_synced": false,
+      "path": "select/13_La_vie_en_rose_Dalida.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/14_La_Vie_En_Rose_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La vie en rose",
+      "artist": "Grace Jones",
+      "has_synced": true,
+      "path": "select/15_La_vie_en_rose_Grace_Jones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La Vie en rose",
+      "artist": "Edith Piaf",
+      "has_synced": true,
+      "path": "select/16_La_Vie_en_rose_Edith_Piaf.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/17_La_Vie_En_Rose_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/18_La_Vie_En_Rose_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "La Vie En Rose [Extended Version]",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/19_La_Vie_En_Rose_[Extended_Version]_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "La vie en rose",
+      "artist": "Louis Armstrong",
+      "has_synced": true,
+      "path": "select/20_La_vie_en_rose_Louis_Armstrong.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Edith Piaf",
+      "has_synced": true,
+      "path": "select/21_La_Vie_En_Rose_Edith_Piaf.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/22_La_Vie_En_Rose_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "La vie en rose (Bonus)",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/23_La_vie_en_rose_(Bonus)_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "La Vie en rose",
+      "artist": "Louis Guglielmi",
+      "has_synced": false,
+      "path": "select/24_La_Vie_en_rose_Louis_Guglielmi.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Demis Roussos",
+      "has_synced": false,
+      "path": "select/25_La_Vie_En_Rose_Demis_Roussos.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "La Vie en Rose",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/26_La_Vie_en_Rose_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "La Vie En Rose (Album Version)",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/27_La_Vie_En_Rose_(Album_Version)_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Laura Fygi",
+      "has_synced": true,
+      "path": "select/28_La_Vie_En_Rose_Laura_Fygi.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "La Vie En Rose (French Version)",
+      "artist": "Laura Fygi",
+      "has_synced": true,
+      "path": "select/29_La_Vie_En_Rose_(French_Version)_Laura_Fygi.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "La Vie En Rose",
+      "artist": "Emily Watts",
+      "has_synced": true,
+      "path": "select/30_La_Vie_En_Rose_Emily_Watts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Vie En Rose",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/pl_01_La_Vie_En_Rose_Louis_Armstrong.txt"
+    }
+  ]
+}
